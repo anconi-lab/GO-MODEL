@@ -1,0 +1,72 @@
+####### suggested carbon number:
+500
+####### % coverage: 
+47.8
+####### % OH:
+100.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       write(2,*)' reference for oxidation '
+       write(2,*)' D. W. Boukhvalov and M. I. Katsnelson ' 
+       write(2,*)' J. AM. CHEM. SOC. 9 VOL. 130, NO. 32, 2008 '
+       write(2,*)'  '
+       write(2,*)' 25% coverage  C8(OH)_2 = 2 OH + 0 EP '
+       write(2,*)' 50% coverage  C8(OH)_2 O = 2OH + 1 EP '
+       write(2,*)' 75% coverage  C8(OH)_4 O = 4OH + 1 EP '
+       write(2,*)'  '
+       write(2,*)' this work: '
+       write(2,*)'  '
+       write(2,*)' 75% coverage: 6/8 oxygen'
+       write(2,*)'  '
+       write(2,*)' coverageOH=100%, 6 OH + 0 EP = 6 carbon with oxyg'
+       write(2,*)' coverageOH=67%, 4 OH + 1 EP = 6 carbon with oxyg'
+       write(2,*)' coverageOH=33%, 2 OH + 2 EP = 6 carbon with oxyg'
+       write(2,*)' coverageOH=0%, 0 OH + 3 EP = 6 carbon with oxyg'
+       write(2,*)'  '
+       write(2,*)' each epoxy = 2 carbon with oxygen '
+       write(2,*)'  '
+       write(2,*)'  '
+   
+
+       write(2,*)'  '
+       write(2,*)' reference for oxidation '
+       write(2,*)' D. W. Boukhvalov and M. I. Katsnelson ' 
+       write(2,*)' J. AM. CHEM. SOC. 9 VOL. 130, NO. 32, 2008 '
+       write(2,*)'  '
+       write(2,*)' limiting composition of GO:'
+       write(2,*)' C8(OH)_2  and C8(OH)_4 O'
+       write(2,*)'  '
+       write(2,*)' limiting composition of GO:'
+       write(2,*)' C8(OH)_2 [this work: coverage=25%  coverageOH=100%]
+       write(2,*)' and C8(OH)_4 O [this work: coverage=75% 
+      *coverageOH=(100*2/3)%'
+       write(2,*)'  '
+
+
+
+Com 600 atomos 
+limite maximo 81% (plenas condicoes de simular a faixa JACS 2008)
+
+
+
+
+
+
+
+
+
+
+
